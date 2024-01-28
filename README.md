@@ -1,7 +1,7 @@
 # No-Loose-Ends
 
 
-### Writhe_Knot_Sampling
+### Writhe_Protein_Sampling
 An exploration into how different sampling methods of the protein backbone (ie. all positions, every 4, random n, etc..) impact the writhe metric.
 
 
