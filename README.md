@@ -6,7 +6,7 @@ An exploration into how different sampling methods of the protein backbone (ie. 
 
 
 ### Energy_From_Writhe
-10,000 _new_ random CA backbone conformations generated from Lysosome using Carbonara (secondary sections of linker resampled only with conformations having reasonable overlap + writhe due to constraints), full atomistic structure inferred using MODELLER and potential energy of protein estimated with OpenMM. 
+10,000 _new_ random CA backbone conformations generated from Lysosome using Carbonara (secondary sections of linker resampled only with conformations having reasonable overlap + writhe due to constraints), full atomistic structure built using MODELLER and potential energy of reconstructed protein estimated with OpenMM. 
 
 
 Taking the writhe metric from the MODELLER reconstructions of CA, can the potential energy be predicted?
